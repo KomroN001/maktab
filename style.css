@@ -1,0 +1,1074 @@
+*{
+    margin: 0;
+    border-style: 0;
+    list-style: none;
+    padding: 0;
+    text-decoration: none;
+}
+header .header__menu ul{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 504px;
+    height: 20px;
+    left: 323px;
+    top: 40px;
+    
+}
+header .header__menu ul li a:hover{
+    text-decoration: underline;
+    color: #FAE01A;
+    font-size: 30px;
+    font-weight: 18px;
+    
+}
+header .header__menu ul li a {
+    color: rgba(0, 0, 0, 0.985);
+    margin-right: 32px;
+    font-size: 20px;
+    font-weight: 400;
+    left: 150px;
+    right: 154px;
+   transition: 100ms;
+    
+} 
+.komron{
+ 
+   position: absolute;
+    width: 102px;
+    height: 88px;
+    left: 110px;
+    top: 20px;
+    
+    background: url(./f_31061dc1e375ab34\ 1\ \(2\).png);
+    
+}
+.komron1{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 1224px;
+    top: 30px;
+}
+header .header__menu h6{
+    position: absolute;
+    width: 148px;
+    height: 22px;
+    left: 1272px;
+    top: 40px;
+    font-size: 20px;
+    
+}
+header .header__menu h1{
+    position: absolute;
+    width: 664px;
+    height: 118px;
+    left: 120px;
+    top: 264px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    
+    color: #018FA3;
+    
+}
+header .header__menu h2{
+    position: absolute;
+    width: 664px;
+    height: 118px;
+    left: 650px;
+    top: 260px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    
+    color: #000000;
+    
+}
+header .header__menu h3{
+    position: absolute;
+    width: 664px;
+    height: 118px;
+    left: 120px;
+    top: 330px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    
+    color: #000000;
+}
+.m{
+    position: absolute;
+    width: 532px;
+    height: 116px;
+    left: 120px;
+    top: 426px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+header .header__menu button:hover{
+    transition: 500ms;
+    background: #018FA3;
+}
+header .header__menu button{
+    position: absolute;
+    width: 244px;
+    height: 64px;
+    left: 119px;
+    top: 586px;
+    font-size: 20px;
+    
+    background: #FAE01A;
+    box-shadow: 0px 20px 40px -27px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+
+    
+}
+.komrom2{
+    position: absolute;
+    left: 907px;
+    top: -11px;
+}
+.komron3{
+    position: absolute;
+    width: 190px;
+    height: 442px;
+    left: 349.59px;
+    top: 178px;
+    
+    background: url(casual-life-3d-close-up-of-blue-book.png);
+    filter: blur(20px);
+    transform: matrix(-0.81, 0.98, 0.58, 0.81, 0, 0);
+    
+}
+.komron4{
+    position: absolute;
+    width: 147px;
+    height: 206px;
+    left: 778.52px;
+    top: 618.05px;
+    
+    background: url(Ef0IdqrWsAI2jeh.jpg);
+    filter: blur(10px);
+    transform: rotate(20deg);
+    
+}
+.komron5{
+    position: absolute;
+    width: 106px;
+    height: 106px;
+    left: 161px;
+    top: 663.91px;
+    
+    filter: blur(7.5px);
+    transform: rotate(-48.93deg);
+}
+.komron6{
+    position: absolute;
+    width: 120.25px;
+    height: 96.87px;
+    left: 559.89px;
+    top: 671.57px;
+    
+    background: url(pen_002.png);
+    filter: blur(3.5px);
+    transform: matrix(0.5, -0.87, -0.87, -0.5, 0, 0);
+    
+}
+.komron7{
+    position: absolute;
+    width: 201px;
+    height: 200px;
+    left: 163px;
+    top: 984px;
+    
+}
+.komron8{
+    position: absolute;
+    width: 440px;
+    height: 204px;
+    left: 270px;
+    top: 1036px;
+    
+    background: #FFF7BE;
+    border-radius: 30px;
+}
+.n{
+    position: absolute;
+    width: 459px;
+    height: 203px;
+    left: 300px;
+    top: 1040px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.komron10{
+    position: absolute;
+    z-index: 500;
+    width: 488px;
+    height: 343px;
+    left: 800px;
+    top: 996px;
+    
+    background: url(f_31761deb0cf6b54c.jpg);
+    border-radius: 30px;
+    
+    
+}
+.komron9{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 488px;
+    height: 343px;
+    left: 832px;
+    top: 1028px;
+    
+    
+    border-radius: 30px;
+    
+}
+
+.komron11{
+    position: absolute;
+    width: 175px;
+    height: 174px;
+    left: 1059px;
+    top: 1572px;
+    
+}
+.komron12{
+    position: absolute;
+    width: 440px;
+    height: 172px;
+    left: 746px;
+    top: 1515px;
+    
+    background: #FFF7BE;
+    border-radius: 30px;
+}
+.q{
+    position: absolute;
+    width: 458px;
+    height: 174px;
+    left: 758px;
+    top: 1539px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.komron13{
+    position: absolute;
+    width: 488px;
+    height: 343px;
+    left: 88px;
+    top: 1454px;
+    
+    background: url(kids-1093758_960_720.png);
+    border-radius: 30px;
+    
+}
+.komron14{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 488px;
+    height: 343px;
+    left: 56px;
+    top: 1486px;
+    
+   
+    border-radius: 30px;
+    
+}
+.k{
+    position: absolute;
+    width: 323px;
+    height: 321px;
+    left: 659px;
+    top: 2007px;
+    
+}
+.s{
+    position: absolute;
+    width: 373px;
+    height: 58px;
+    left: 634px;
+    top: 2344px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.k1{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 433px;
+    top: 1930px;
+    
+}
+.s1{
+    position: absolute;
+    width: 140px;
+    height: 58px;
+    left: 423px;
+    top: 2054px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.k2{
+
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 337px;
+    top: 2138px;
+    
+}
+.s2{
+    position: absolute;
+    width: 149px;
+    height: 29px;
+    left: 322px;
+    top: 2262px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+    
+}
+.k3{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1081px;
+    top: 1944px;
+    
+}
+.s3{
+    position: absolute;
+    width: 153px;
+    height: 29px;
+    left: 1064px;
+    top: 2068px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.k4{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1191px;
+    top: 2123px;
+}
+.s4{
+    position: absolute;
+    width: 134px;
+    height: 58px;
+    left: 1184px;
+    top: 2247px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.k5{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 432px;
+    top: 2346px;
+    
+}
+.s5{
+    position: absolute;
+    width: 135px;
+    height: 58px;
+    left: 424px;
+    top: 2470px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #000000;
+    
+    
+}
+.k6{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 1081px;
+    top: 2346px;
+}
+.s6{
+    position: absolute;
+    width: 80px;
+    height: 58px;
+    left: 1108px;
+    top: 2470px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.k7{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 761px;
+    top: 2438px;
+    
+}
+.s7{
+    position: absolute;
+    width: 150px;
+    height: 87px;
+    left: 746px;
+    top: 2562px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #000000;
+    
+    
+}
+.section__munu{
+    position: absolute;
+    width: 1440px;
+    height: 1053px;
+    left: -2px;
+    top: 2754px;
+    
+    background: #F6FAFF;
+}
+
+.section__menu h3{
+    position: absolute;
+    width: 185px;
+    height: 59px;
+    left: 728px;
+    top: 2776px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    
+    
+    
+    color: #000000;
+    
+    
+}
+.o{
+    position: absolute;
+    width: 387px;
+    height: 80px;
+    left: 120px;
+    top: 2903px;
+    
+    border-radius: 30px 30px 0px 0px;
+    
+}
+.y{
+    position: absolute;
+    width: 293px;
+    height: 29px;
+    left: 187px;
+    top: 2939px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+}
+.o1{
+    position: absolute;
+    width: 397px;
+    height: 698px;
+    left: 120px;
+    top: 2983px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 52px 34px -27px rgba(225, 225, 225, 0.15);
+    border-radius: 30px;
+}
+.y1{
+    position: absolute;
+    width: 227px;
+    height: 59px;
+    left: 201px;
+    top: 3040px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+}
+.a{
+    position: absolute;
+    width: 82px;
+    height: 29px;
+    left: 253px;
+    top: 3126px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.a1{
+    position: absolute;
+    width: 289px;
+    height: 29px;
+    left: 169px;
+    top: 3163px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+    
+}
+.a2{
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 210px;
+    top: 3252px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.a3{
+    position: absolute;
+    width: 92px;
+    height: 29px;
+    left: 264px;
+    top: 3305px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+
+}
+.a4{
+    position: absolute;
+    width: 139px;
+    height: 29px;
+    left: 241px;
+    top: 3358px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+.a5{
+    position: absolute;
+    width: 193px;
+    height: 29px;
+    left: 212px;
+    top: 3411px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.a6{
+    position: absolute;
+    width: 145px;
+    height: 29px;
+    left: 241px;
+    top: 3464px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #018FA3;
+    
+    
+}
+.u:hover{
+    transition: 500ms;
+    background: #FAE01A;
+    cursor: grab;
+}
+.u{
+    position: absolute;
+    width: 219px;
+    height: 68px;
+    left: 190px;
+    top: 3553px;
+    color: #F6FAFF;
+    font-size: 20px;
+    
+    background: #018FA3;
+    border-radius: 40px;
+}
+.o2{
+    position: absolute;
+    width: 387px;
+    height: 80px;
+    left: 527px;
+    top: 2903px;
+    
+    background: #955EEA;
+    border-radius: 30px 30px 0px 0px;
+}
+.y2{
+    position: absolute;
+    width: 220px;
+    height: 59px;
+    left: 608px;
+    top: 3043px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+}
+.a7{
+    position: absolute;
+    width: 92px;
+    height: 29px;
+    left: 675px;
+    top: 3126px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.y3{
+    position: absolute;
+    width: 184px;
+    height: 29px;
+    left: 629px;
+    top: 2929px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+    
+}
+.a8{
+    position: absolute;
+    width: 286px;
+    height: 29px;
+    left: 578px;
+    top: 3163px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+    
+}
+.a9{
+    position: absolute;
+    width: 323px;
+    height: 29px;
+    left: 559px;
+    top: 3252px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.a10{
+    position: absolute;
+    width: 152px;
+    height: 29px;
+    left: 645px;
+    top: 3305px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.a11{
+    position: absolute;
+    width: 162px;
+    height: 29px;
+    left: 640px;
+    top: 3358px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+    
+}
+.a12{
+    position: absolute;
+    width: 218px;
+    height: 29px;
+    left: 612px;
+    top: 3411px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+    
+}
+.a13{
+
+    position: absolute;
+    width: 145px;
+    height: 29px;
+    left: 648px;
+    top: 3464px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #018FA3;
+    
+    
+}
+.u1:hover{
+    transition: 500ms;
+    background: #FAE01A;
+    cursor: grab;
+}
+.u1{
+    position: absolute;
+    width: 219px;
+    height: 68px;
+    left: 611px;
+    top: 3553px;
+    color: #F6FAFF;
+    font-size: 20px;
+    
+    background: #955DEA;
+    border-radius: 40px;
+}
+.o3{
+    position: absolute;
+    width: 387px;
+    height: 80px;
+    left: 933px;
+    top: 2903px;
+    
+    background: #4ECA30;
+    border-radius: 30px 30px 0px 0px;
+}
+.y4{
+    position: absolute;
+    width: 354px;
+    height: 29px;
+    left: 950px;
+    top: 2929px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    
+}
+.y5{
+    position: absolute;
+    width: 226px;
+    height: 59px;
+    left: 1014px;
+    top: 3043px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+}
+.a14{
+
+    position: absolute;
+    width: 285px;
+    height: 29px;
+    left: 984px;
+    top: 3150px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+    
+}
+.a15{
+    position: absolute;
+    width: 154px;
+    height: 29px;
+    left: 1050px;
+    top: 3252px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.a16{
+    position: absolute;
+    width: 370px;
+    height: 29px;
+    left: 942px;
+    top: 3305px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+    
+}
+.a17{
+    position: absolute;
+    width: 287px;
+    height: 29px;
+    left: 983px;
+    top: 3358px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.a18{
+    position: absolute;
+    width: 290px;
+    height: 29px;
+    left: 982px;
+    top: 3411px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+    
+}
+
+.a19{
+    position: absolute;
+    width: 145px;
+    height: 29px;
+    left: 1054px;
+    top: 3464px;
+    
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #018FA3;
+    
+}
+.u2:hover{
+    transition: 500ms;
+    background: #FAE01A;
+    cursor: grab;
+}
+.u2{
+    position: absolute;
+    width: 219px;
+    height: 68px;
+    left: 1017px;
+    top: 3553px;
+    color: #F6FAFF;
+    font-size: 20px;
+    
+    background: #4ECA30;
+    border-radius: 40px;
+    
+}
